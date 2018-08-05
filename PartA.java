@@ -1,6 +1,8 @@
 import java.util.Stack;
 import java.util.Scanner;
 
+// Testing for the new Git Hub practice
+
 public class PartA {
 
     private static Stack<String> history = new Stack<String>();
@@ -41,13 +43,3 @@ public class PartA {
     }
 
 }
-
-/**
- * Your code should have the following Output:
- * <p>
- * true
- * false
- * www.upgrad.com
- * www.yahoo.com
- * [www.google.co.in, www.facebook.com, www.yahoo.com]
- */
